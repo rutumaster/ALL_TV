@@ -28867,13 +28867,13 @@
       "developer_Id": "",
       "more_apps_url": "https://www.mediafire.com/file/zfdum0ep8shyh8o/app-release-v5.apk",
       "dummyURL": "https://www.efalia.com/wp-content/uploads/2015/01/fotolia_84282280-maquette-maintenance-2.jpg",
-      "dummy_version": "3.0.0",
+      "dummy_version": "1.0.0",
       "facebook_page_id": 822625707789265,
       "facebook_url": "https://www.facebook.com/",
       "isDummy": false,
       "is_texture_centercrop": false,
-      "package_Id": "com.pockettv.guide.world",
-      "share_message": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.pockettv.guide.world",
+      "package_Id": "com.tv.world",
+      "share_message": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.tv.world",
       "texture_Bg_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/texture/t5.png"
     },
     "Setup_Tv": {
@@ -28904,10 +28904,10 @@
       "is_system_browser": true,
       "progress_download_message": "Downloading...",
       "progress_install_message": "Install Now",
-      "update_current_version": "3.0.0",
+      "update_current_version": "1.0.0",
       "update_required": true,
-      "update_store_app_id": "com.pockettv.guide.world",
-      "website_Url": "https://play.google.com/store/apps/details?id=com.pockettv.guide.world"
+      "update_store_app_id": "com.tv.world",
+      "website_Url": "https://play.google.com/store/apps/details?id=com.tv.world"
     }
   }
 }
