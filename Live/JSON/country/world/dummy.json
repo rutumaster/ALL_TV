@@ -24157,7 +24157,7 @@
           "sub_100": {
             "auto_banner": false,
             "url_banner": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/South%20Indian/Zee-Cinemalu.jpeg?alt=media&token=da8ff7c8-eed3-4754-b5ae-de1e489d43fb",
-            "id": 1,
+            "id": 100,
             "common_image": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "auto_unique_name": "Channel ",
             "name": "Zee Cinemalu",
@@ -24171,7 +24171,7 @@
           "sub_101": {
             "auto_banner": false,
             "url_banner": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/South%20Indian/Zee-Kannada-USA.jpeg?alt=media&token=0a4c0679-3905-4134-a3aa-77c95003e3c1",
-            "id": 1,
+            "id": 101,
             "common_image": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "auto_unique_name": "Channel ",
             "name": "Zee Kannada USA",
@@ -24186,7 +24186,7 @@
           "sub_102": {
             "auto_banner": false,
             "url_banner": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/South%20Indian/Zee-Kannada.jpeg?alt=media&token=7055f5c8-8d4a-42a0-b357-5d4ce173f331",
-            "id": 1,
+            "id": 102,
             "common_image": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "auto_unique_name": "Channel ",
             "name": "Zee Kannada",
@@ -24201,7 +24201,7 @@
           "sub_103": {
             "auto_banner": false,
             "url_banner": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/South%20Indian/Zee-Tamil.jpeg?alt=media&token=2e91fbfd-55fc-46a3-90a0-0bf77d5d586b",
-            "id": 1,
+            "id": 103,
             "common_image": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "auto_unique_name": "Channel ",
             "name": "Zee Tamil",
@@ -24215,7 +24215,7 @@
           "sub_104": {
             "auto_banner": false,
             "url_banner": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/South%20Indian/Zee-Telugu.jpeg?alt=media&token=067b7e3e-beb4-4a94-8814-f448eb7f2f51",
-            "id": 1,
+            "id": 104,
             "common_image": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
             "auto_unique_name": "Channel ",
             "name": "Zee Telugu",
@@ -28674,8 +28674,8 @@
       "sub_P_Mob": 3,
       "sub_P_Tab": 4,
       "is_custom_Thumb": true,
-      "custom_Thumb_BG_Color": "",
-      "custom_Thumb_Txt_Color": ""
+      "custom_Thumb_BG_Color": "#5e35b1",
+      "custom_Thumb_Txt_Color": "#ffffff"
     },
     "Donation_Settings": {
       "donation_image_url": "https://alsride.org.au/wp-content/uploads/2017/03/donation.png",
