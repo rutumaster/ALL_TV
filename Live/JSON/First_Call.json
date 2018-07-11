@@ -53,5 +53,16 @@
       "trial_days" : 7,
       "trial_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Live/JSON/country/bangla/original-(Trial).json"
     }
+  },
+  "UK_TV" : {
+    "Data" : {
+      "dummy_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Live/JSON/country/uk/dummy.json",
+      "dummy_version" : "1.0.0",
+      "identifier" : "TV_Data",
+      "isDummy" : true,
+      "json_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Live/JSON/country/uk/original.json",
+      "trial_days" : 7,
+      "trial_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Live/JSON/country/uk/original-(Trial).json"
+    }
   }
 }
