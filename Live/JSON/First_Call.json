@@ -86,5 +86,16 @@
       "trial_days" : 7,
       "trial_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Live/JSON/country/australia/original-(Trial).json"
     }
+  },
+  "Germany_TV" : {
+    "Data" : {
+      "dummy_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Live/JSON/country/germany/dummy.json",
+      "dummy_version" : "1.0.0",
+      "identifier" : "TV_Data",
+      "isDummy" : true,
+      "json_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Live/JSON/country/germany/original.json",
+      "trial_days" : 7,
+      "trial_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Live/JSON/country/germany/original-(Trial).json"
+    }
   }
 }
