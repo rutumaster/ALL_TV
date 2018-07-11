@@ -4425,7 +4425,7 @@
         "auto_thumbnail": false,
         "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Religious-TV.jpeg?alt=media&token=0bee1819-6c8c-4fd0-b45f-715a50d336a0",
         "id": 36,
-        "name": "Religious India Live",
+        "name": "Religious Pakistani Live",
         "sub": {
           "sub_1": {
             "auto_banner": false,
@@ -4996,7 +4996,7 @@
       "sub_P_Tab": 4,
       "is_custom_Thumb": true,
       "custom_Thumb_BG_Color": "#015b1e",
-      "custom_Thumb_Txt_Color": "#fbfaf6"
+      "custom_Thumb_Txt_Color": "#ffffff"
     },
     "Donation_Settings": {
       "donation_image_url": "https://alsride.org.au/wp-content/uploads/2017/03/donation.png",

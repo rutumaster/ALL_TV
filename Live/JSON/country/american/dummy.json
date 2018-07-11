@@ -94,7 +94,7 @@
         "auto_thumbnail": false,
         "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Sports-TV.jpeg?alt=media&token=3c1ff073-e79e-42a8-9641-73d9c5128ee4",
         "id": 1,
-        "name": "Sports Pakistani Live",
+        "name": "Sports American Live",
         "sub": {
           "sub_1": {
             "auto_banner": false,
@@ -2532,7 +2532,7 @@
         "auto_thumbnail": false,
         "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Kidz-Zone.jpeg?alt=media&token=90937f03-1a17-46b4-919d-76d44aa367cf",
         "id": 34,
-        "name": "Kids Zone Pakistani Live",
+        "name": "Kids Zone American Live",
         "sub": {
           "sub_1": {
             "auto_banner": false,
@@ -3251,7 +3251,7 @@
         "auto_thumbnail": false,
         "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Wild-Life-Sci.jpeg?alt=media&token=23bcaf3c-e473-4cb1-a0a2-2b7dda330242",
         "id": 35,
-        "name": "Wild Life/Science Pakistani Live",
+        "name": "Wild Life/Science American Live",
         "sub": {
           "sub_1": {
             "auto_banner": false,
@@ -3634,7 +3634,7 @@
         "auto_thumbnail": false,
         "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Religious-TV.jpeg?alt=media&token=0bee1819-6c8c-4fd0-b45f-715a50d336a0",
         "id": 36,
-        "name": "Religious India Live",
+        "name": "Religious American Live",
         "sub": {
           "sub_1": {
             "auto_banner": false,
