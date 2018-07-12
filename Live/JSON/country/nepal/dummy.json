@@ -88,7 +88,16 @@
       "info_remind_id": "1",
       "info_title": "Remove Ads Guidance"
     },
-    "Channel_List": {
+    "Channel_List":
+    {
+      "main_0": {
+        "id" : 0,
+        "thumbnail_url": "http://www.lyngsat-logo.com/logo/tv/num/5_kanal_ru.png",
+        "banner_url": "https://www.lyngsat-logo.com/logo/tv/num/5_kanal_ru.png",
+        "satellite_data_url": "https://astra.ses/channels/vtv",
+        "name": "Satellite",
+        "sub_name": ""
+      },
       "main_1": {
         "auto_banner": false,
         "auto_thumbnail": false,
