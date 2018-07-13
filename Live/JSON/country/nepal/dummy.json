@@ -30940,7 +30940,7 @@
       "success_remove_ads_message": "Congratulations!\nNow This session is ADS FREE."
     },
     "Settings": {
-      "is_Searchbar": false,
+      "is_Searchbar": true,
       "is_Trial_Version": true,
       "trial_Version_Text": "",
       "trial_Version_Height": 70,
