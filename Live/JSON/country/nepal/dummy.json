@@ -95,8 +95,8 @@
         "auto_thumbnail" : false,
         "name" : "Russia",
         "sub_name" : "Channels",
-        "thumbnail_url" : "=============",
-        "banner_url" : "=============",
+        "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/dd/disney_channel_global.png",
+        "banner_url" : "https://www.lyngsat-logo.com/logo/tv/dd/disney_channel_global.png",
         "sub": {
           "sub_1": {
             "id" : 1,
@@ -938,8 +938,8 @@
         "auto_thumbnail" : false,
         "name" : "Turkey",
         "sub_name" : "Channels",
-        "thumbnail_url" : "=============",
-        "banner_url" : "=============",
+        "thumbnail_url" : "https://upload.wikimedia.org/wikipedia/commons/4/41/Sunflower_from_Silesia2.jpg",
+        "banner_url" : "https://upload.wikimedia.org/wikipedia/commons/4/41/Sunflower_from_Silesia2.jpg",
         "sub": {
           "sub_1": {
             "id" : 1,
