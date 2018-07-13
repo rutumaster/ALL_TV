@@ -70,7 +70,7 @@
       "dummy_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Live/JSON/country/nepal/dummy.json",
       "dummy_version" : "1.0.0",
       "identifier" : "TV_Data",
-      "isDummy" : true,
+      "isDummy" : false,
       "json_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Live/JSON/country/nepal/original.json",
       "trial_days" : 7,
       "trial_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Live/JSON/country/nepal/original-(Trial).json"
