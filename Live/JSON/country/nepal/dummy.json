@@ -30755,7 +30755,7 @@
       "sub_L_Tab": 5,
       "sub_P_Mob": 3,
       "sub_P_Tab": 4,
-      "is_custom_Thumb": true,
+      "is_custom_Thumb": false,
       "custom_Thumb_BG_Color": "#fcf9f4",
       "custom_Thumb_Txt_Color": "#ed5a64"
     },
