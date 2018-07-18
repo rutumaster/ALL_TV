@@ -39238,8 +39238,8 @@
       "sub_P_Mob": 3,
       "sub_P_Tab": 4,
       "is_custom_Thumb": true,
-      "custom_Thumb_BG_Color": "#fcf9f4",
-      "custom_Thumb_Txt_Color": "#ed5a64"
+      "custom_Thumb_BG_Color": "#0741a5",
+      "custom_Thumb_Txt_Color": "#8fc700"
     },
     "Donation_Settings": {
       "donation_image_url": "https://alsride.org.au/wp-content/uploads/2017/03/donation.png",
@@ -39436,8 +39436,8 @@
       "facebook_url": "https://www.facebook.com/",
       "isDummy": true,
       "is_texture_centercrop": false,
-      "package_Id": "com.rutu.live.tv.nepal",
-      "share_message": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.rutu.live.tv.nepal",
+      "package_Id": "com.satellite.guide.tv.world",
+      "share_message": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.satellite.guide.tv.world",
       "texture_Bg_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/texture/t5.png"
     },
     "Setup_Tv": {
@@ -39470,8 +39470,8 @@
       "progress_install_message": "Install Now",
       "update_current_version": "1.0.0",
       "update_required": true,
-      "update_store_app_id": "com.rutu.live.tv.nepal",
-      "website_Url": "https://play.google.com/store/apps/details?id=com.rutu.live.tv.nepal"
+      "update_store_app_id": "com.satellite.guide.tv.world",
+      "website_Url": "https://play.google.com/store/apps/details?id=com.satellite.guide.tv.world"
     }
   }
 }
