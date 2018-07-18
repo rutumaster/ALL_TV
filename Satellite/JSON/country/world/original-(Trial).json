@@ -30691,6 +30691,7 @@
       }
     },
     "Chromecast_Setting": {
+      "is_chromecast_support" : false,
       "cast_agent": "09",
       "cast_guide_image_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Chromecast_Notification.jpg?alt=media&token=3a2c14f2-20d2-4dfe-9eed-336544df9e09",
       "cast_package_name": "com.instantbits.cast.webvideo",

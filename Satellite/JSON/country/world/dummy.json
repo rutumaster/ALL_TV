@@ -30691,11 +30691,12 @@
       }
     },
     "Chromecast_Setting": {
+      "is_chromecast_support" : false,
       "cast_agent": "09",
       "cast_guide_image_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Chromecast_Notification.jpg?alt=media&token=3a2c14f2-20d2-4dfe-9eed-336544df9e09",
       "cast_package_name": "com.instantbits.cast.webvideo",
       "inapp_chromecast_message": "If you want to play video on you TV.<br><br>Then you should purchase this service.<br><br>You will get chromecast support from Pocket TV.",
-      "is_inapp_chromecast" : "true",
+      "is_inapp_chromecast" : true,
       "inapp_chromecast_sku" : "com.pockettv.chromecast",
       "cast_referer": "https://www.metube.id",
       "download_url": "https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/COMMON/APKS/ChromeCast.apk",
