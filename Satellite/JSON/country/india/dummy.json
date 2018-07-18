@@ -93,7 +93,7 @@
         "id" : 0,
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "name" : "Sports",
+        "name" : "India Sports",
         "sub_name" : "Channels",
         "thumbnail_url" : "=============",
         "banner_url" : "=============",
@@ -3080,7 +3080,7 @@
         "id" : 0,
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "name" : "Movies",
+        "name" : "India Movies",
         "sub_name" : "Channels",
         "thumbnail_url" : "=============",
         "banner_url" : "=============",
@@ -4804,7 +4804,7 @@
         "auto_banner" : false,
         "auto_thumbnail" : false,
         "name" : "Kids",
-        "sub_name" : "Channels",
+        "sub_name" : "India Channels",
         "thumbnail_url" : "=============",
         "banner_url" : "=============",
         "sub": {
@@ -6191,7 +6191,7 @@
         "auto_banner" : false,
         "auto_thumbnail" : false,
         "name" : "Music",
-        "sub_name" : "Channels",
+        "sub_name" : "India Channels",
         "thumbnail_url" : "=============",
         "banner_url" : "=============",
         "sub": {
@@ -7241,7 +7241,7 @@
         "id" : 0,
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "name" : "News",
+        "name" : "India News",
         "sub_name" : "Channels",
         "thumbnail_url" : "=============",
         "banner_url" : "=============",
@@ -8116,7 +8116,7 @@
         "id" : 0,
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "name" : "Religious",
+        "name" : "India Religious",
         "sub_name" : "Channels",
         "thumbnail_url" : "=============",
         "banner_url" : "=============",
@@ -8948,7 +8948,7 @@
             "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png",
             "satellite_data_url" : "https://astra.ses/channels/b4u-music-uk-0"
           }
-        }
+        },
         "img_Url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/Religious.png?alt=media&token=42aa5228-c306-4e4f-bd81-a5ae351956bb",
         "initial_desc": "All Relegious Live Channels",
         "page_Color": "#ffa800",
