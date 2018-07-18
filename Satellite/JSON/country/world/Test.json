@@ -1,0 +1,372 @@
+{
+  "Channel_List": {
+    "main_1": {
+      "id" : 1,
+      "auto_banner" : false,
+      "auto_thumbnail" : false,
+      "name" : "Russia",
+      "sub_name" : "Channels",
+      "thumbnail_url" : "=============",
+      "banner_url" : "=============",
+      "sub": {
+        "sub_1": {
+          "id" : 1,
+          "name" : "Telekanal Doktor",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/tt/telekanal_doktor_ru.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/tt/telekanal_doktor_ru.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        }
+      }
+    },
+    "main_2": {
+      "id" : 2,
+      "auto_banner" : false,
+      "auto_thumbnail" : false,
+      "name" : "Turkey",
+      "sub_name" : "Channels",
+      "thumbnail_url" : "=============",
+      "banner_url" : "=============",
+      "sub": {
+        "sub_1": {
+          "id" : 1,
+          "name" : "V!va",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/vv/viva_tr.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/vv/viva_tr.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_2": {
+          "id" : 2,
+          "name" : "Sony Channel Türkiye",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony_channel_in.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony_channel_in.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_3": {
+          "id" : 3,
+          "name" : "Planet Türk",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/pp/planet_turk.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/pp/planet_turk.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_4": {
+          "id" : 4,
+          "name" : "Sony Mutfak",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony-mutfak-in-tr.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony-mutfak-in-tr.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_5": {
+          "id" : 5,
+          "name" : "Planet Çocuk",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/pp/planet-cocuk-tr.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/pp/planet-cocuk-tr.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_6": {
+          "id" : 6,
+          "name" : "Radyo Viva",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/radio/rr/radyo_viva.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/radio/rr/radyo_viva.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_7": {
+          "id" : 7,
+          "name" : "Show Radyo",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/radio/ss/show_radyo_tr.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/radio/ss/show_radyo_tr.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        }
+      }
+    },
+    "main_3": {
+      "id" : 3,
+      "auto_banner" : false,
+      "auto_thumbnail" : false,
+      "name" : "Other Country",
+      "sub_name" : "Channels",
+      "thumbnail_url" : "=============",
+      "banner_url" : "=============",
+      "sub": {
+        "sub_1": {
+          "id" : 1,
+          "name" : "TrFilm TV",
+          "sub_name" : "",
+          "banner_url" : "/themes/custom/astra/assets/images/channels-default.svg",
+          "thumbnail_url" : "/themes/custom/astra/assets/images/channels-default.svg",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        }
+      }
+    },
+    "main_4": {
+      "id" : 4,
+      "auto_banner" : false,
+      "auto_thumbnail" : false,
+      "name" : "India",
+      "sub_name" : "Channels",
+      "thumbnail_url" : "=============",
+      "banner_url" : "=============",
+      "sub": {
+        "sub_1": {
+          "id" : 1,
+          "name" : "Sony Channel Türkiye",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony_channel_in.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony_channel_in.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_2": {
+          "id" : 2,
+          "name" : "Sony Mutfak",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony-mutfak-in-tr.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony-mutfak-in-tr.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_3": {
+          "id" : 3,
+          "name" : "Zee TV UK",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/zz/zee-tv-in.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/zz/zee-tv-in.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        }
+      }
+    },
+    "main_5": {
+      "id" : 5,
+      "auto_banner" : false,
+      "auto_thumbnail" : false,
+      "name" : "United Kingdom",
+      "sub_name" : "Channels",
+      "thumbnail_url" : "=============",
+      "banner_url" : "=============",
+      "sub": {
+        "sub_1": {
+          "id" : 1,
+          "name" : "Climax",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/cc/climax_uk.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/cc/climax_uk.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_2": {
+          "id" : 2,
+          "name" : "FreeSports",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ff/freesports-uk.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ff/freesports-uk.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_3": {
+          "id" : 3,
+          "name" : "Zee TV UK",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/zz/zee-tv-in.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/zz/zee-tv-in.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_4": {
+          "id" : 4,
+          "name" : "LFC TV",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ll/liverpool_football_club.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ll/liverpool_football_club.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_5": {
+          "id" : 5,
+          "name" : "Sky On Demand B",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sky_uk_anytime_b.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sky_uk_anytime_b.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_6": {
+          "id" : 6,
+          "name" : "Real Lives",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/real_lives_uk.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/real_lives_uk.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_7": {
+          "id" : 7,
+          "name" : "More 4 Ireland",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/cc/channel_4_more4_ie.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/cc/channel_4_more4_ie.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_8": {
+          "id" : 8,
+          "name" : "TJC",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/tt/the_jewellery_channel_uk.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/tt/the_jewellery_channel_uk.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        }
+      }
+    },
+    "main_6": {
+      "id" : 6,
+      "auto_banner" : false,
+      "auto_thumbnail" : false,
+      "name" : "Ireland",
+      "sub_name" : "Channels",
+      "thumbnail_url" : "=============",
+      "banner_url" : "=============",
+      "sub": {
+        "sub_1": {
+          "id" : 1,
+          "name" : "RTÉ Jr",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rte_jr_tv.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rte_jr_tv.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_2": {
+          "id" : 2,
+          "name" : "Oireachtas TV",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/oo/oireachtas_tv_ie.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/oo/oireachtas_tv_ie.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_3": {
+          "id" : 3,
+          "name" : "RTÉ One +1",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rte_one_plus1.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rte_one_plus1.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_4": {
+          "id" : 4,
+          "name" : "RTÉ News Now",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rte_news_now.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rte_news_now.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_5": {
+          "id" : 5,
+          "name" : "More 4 Ireland",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/cc/channel_4_more4_ie.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/cc/channel_4_more4_ie.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        }
+      }
+    },
+    "main_7": {
+      "id" : 7,
+      "auto_banner" : false,
+      "auto_thumbnail" : false,
+      "name" : "United States",
+      "sub_name" : "Channels",
+      "thumbnail_url" : "=============",
+      "banner_url" : "=============",
+      "sub": {
+        "sub_1": {
+          "id" : 1,
+          "name" : "Hope Radio",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/radio/hh/hope_channel_radio_de.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/radio/hh/hope_channel_radio_de.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        }
+      }
+    },
+    "main_8": {
+      "id" : 8,
+      "auto_banner" : false,
+      "auto_thumbnail" : false,
+      "name" : "Germany",
+      "sub_name" : "Channels",
+      "thumbnail_url" : "=============",
+      "banner_url" : "=============",
+      "sub": {
+        "sub_1": {
+          "id" : 1,
+          "name" : "Hope Radio",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/radio/hh/hope_channel_radio_de.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/radio/hh/hope_channel_radio_de.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_2": {
+          "id" : 2,
+          "name" : "Lokal TV Portal",
+          "sub_name" : "",
+          "banner_url" : "http://www.lyngsat-logo.com/logo/tv/ll/lokal_tv_de.png",
+          "thumbnail_url" : "http://www.lyngsat-logo.com/logo/tv/ll/lokal_tv_de.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_3": {
+          "id" : 3,
+          "name" : "Lokal TV Portal",
+          "sub_name" : "",
+          "banner_url" : "http://www.lyngsat-logo.com/logo/tv/ll/lokal_tv_de.png",
+          "thumbnail_url" : "http://www.lyngsat-logo.com/logo/tv/ll/lokal_tv_de.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_4": {
+          "id" : 4,
+          "name" : "Lokal TV Portal",
+          "sub_name" : "",
+          "banner_url" : "http://www.lyngsat-logo.com/logo/tv/ll/lokal_tv_de.png",
+          "thumbnail_url" : "http://www.lyngsat-logo.com/logo/tv/ll/lokal_tv_de.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_5": {
+          "id" : 5,
+          "name" : "Lokal TV Portal",
+          "sub_name" : "",
+          "banner_url" : "http://www.lyngsat-logo.com/logo/tv/ll/lokal_tv_de.png",
+          "thumbnail_url" : "http://www.lyngsat-logo.com/logo/tv/ll/lokal_tv_de.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_6": {
+          "id" : 6,
+          "name" : "Lokal TV Portal",
+          "sub_name" : "",
+          "banner_url" : "http://www.lyngsat-logo.com/logo/tv/ll/lokal_tv_de.png",
+          "thumbnail_url" : "http://www.lyngsat-logo.com/logo/tv/ll/lokal_tv_de.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_7": {
+          "id" : 7,
+          "name" : "Lokal TV Portal",
+          "sub_name" : "",
+          "banner_url" : "http://www.lyngsat-logo.com/logo/tv/ll/lokal_tv_de.png",
+          "thumbnail_url" : "http://www.lyngsat-logo.com/logo/tv/ll/lokal_tv_de.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_8": {
+          "id" : 8,
+          "name" : "Lokal TV Portal",
+          "sub_name" : "",
+          "banner_url" : "http://www.lyngsat-logo.com/logo/tv/ll/lokal_tv_de.png",
+          "thumbnail_url" : "http://www.lyngsat-logo.com/logo/tv/ll/lokal_tv_de.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        },
+        "sub_9": {
+          "id" : 9,
+          "name" : "Lokal TV Portal",
+          "sub_name" : "",
+          "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ll/lokal_tv_de.png",
+          "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ll/lokal_tv_de.png",
+          "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+        }
+      }
+    }
+  }
+}
