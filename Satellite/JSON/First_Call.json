@@ -4,7 +4,7 @@
       "dummy_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/world/dummy.json",
       "dummy_version" : "1.0.0",
       "identifier" : "TV_Data",
-      "isDummy" : false,
+      "isDummy" : true,
       "json_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/world/original.json",
       "trial_days" : 7,
       "trial_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/world/original-(Trial).json"
