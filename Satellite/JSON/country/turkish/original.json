@@ -94,7 +94,7 @@
         "id" : 0,
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "name" : "Sports Russia",
+        "name" : "Sports Turkish",
         "sub_name" : "Channels",
         "thumbnail_url" : "=============",
         "banner_url" : "=============",
@@ -3081,7 +3081,7 @@
         "id" : 0,
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "name" : "Movies Russia",
+        "name" : "Movies Turkish",
         "sub_name" : "Channels",
         "thumbnail_url" : "=============",
         "banner_url" : "=============",
@@ -4804,7 +4804,7 @@
         "id" : 0,
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "name" : "Kids Russia",
+        "name" : "Kids Turkish",
         "sub_name" : "India Channels",
         "thumbnail_url" : "=============",
         "banner_url" : "=============",
@@ -6191,7 +6191,7 @@
         "id" : 0,
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "name" : "Music Russia",
+        "name" : "Music Turkish",
         "sub_name" : "India Channels",
         "thumbnail_url" : "=============",
         "banner_url" : "=============",
@@ -7242,7 +7242,7 @@
         "id" : 0,
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "name" : "News Russia",
+        "name" : "News Turkish",
         "sub_name" : "Channels",
         "thumbnail_url" : "=============",
         "banner_url" : "=============",
@@ -8117,7 +8117,7 @@
         "id" : 0,
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "name" : "Religious Russia",
+        "name" : "Religious Turkish",
         "sub_name" : "Channels",
         "thumbnail_url" : "=============",
         "banner_url" : "=============",
@@ -8572,846 +8572,150 @@
           }
         }
       },
-      "main_1": {
-        "id" : 1,
+      "main_2": {
+        "id" : 2,
         "auto_banner" : false,
         "auto_thumbnail" : false,
-        "name" : "Russia",
+        "name" : "Turkish",
         "sub_name" : "Channels",
         "thumbnail_url" : "====================",
         "banner_url" : "====================",
         "sub": {
           "sub_1": {
             "id" : 1,
-            "name" : "Telekanal Doktor",
+            "name" : "V!va",
             "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/tt/telekanal_doktor_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/tt/telekanal_doktor_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/telekanal-doktor"
+            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/vv/viva_tr.png",
+            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/vv/viva_tr.png",
+            "satellite_data_url" : "https://astra.ses/channels/vva"
           },
           "sub_2": {
             "id" : 2,
-            "name" : "Sarafan",
+            "name" : "Sony Channel Türkiye",
             "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sarafan_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sarafan_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/sarafan"
+            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony_channel_in.png",
+            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony_channel_in.png",
+            "satellite_data_url" : "https://astra.ses/channels/sony-channel-turkiye"
           },
           "sub_3": {
             "id" : 3,
-            "name" : "Fox Russia",
+            "name" : "Planet Türk",
             "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png",
-            "satellite_data_url" : "https://astra.ses/channels/fox-russia"
+            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/pp/planet_turk.png",
+            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/pp/planet_turk.png",
+            "satellite_data_url" : "https://astra.ses/channels/planet-turk"
           },
           "sub_4": {
             "id" : 4,
-            "name" : "FilmBox Russia",
+            "name" : "Sony Mutfak",
             "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ff/filmbox_russia.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ff/filmbox_russia.png",
-            "satellite_data_url" : "https://astra.ses/channels/filmbox-russia"
+            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony-mutfak-in-tr.png",
+            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony-mutfak-in-tr.png",
+            "satellite_data_url" : "https://astra.ses/channels/sony-mutfak"
           },
           "sub_5": {
             "id" : 5,
-            "name" : "Rossiya 24",
+            "name" : "Planet Çocuk",
             "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rossiya_24.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rossiya_24.png",
-            "satellite_data_url" : "https://astra.ses/channels/rossiya-24"
+            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/pp/planet-cocuk-tr.png",
+            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/pp/planet-cocuk-tr.png",
+            "satellite_data_url" : "https://astra.ses/channels/planet-cocuk"
           },
           "sub_6": {
             "id" : 6,
-            "name" : "Spike Rossiya",
+            "name" : "Radyo Viva",
             "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ss/spike_tv_us.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ss/spike_tv_us.png",
-            "satellite_data_url" : "https://astra.ses/channels/spike-rossiya"
+            "banner_url" : "https://www.lyngsat-logo.com/logo/radio/rr/radyo_viva.png",
+            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/radio/rr/radyo_viva.png",
+            "satellite_data_url" : "https://astra.ses/channels/radyo-viva"
           },
           "sub_7": {
             "id" : 7,
-            "name" : "Kto est kto",
+            "name" : "Show Radyo",
             "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/kk/kto_est_kto_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/kk/kto_est_kto_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/kto-est-kto"
+            "banner_url" : "https://www.lyngsat-logo.com/logo/radio/ss/show_radyo_tr.png",
+            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/radio/ss/show_radyo_tr.png",
+            "satellite_data_url" : "https://astra.ses/channels/show-radyo"
           },
           "sub_8": {
             "id" : 8,
-            "name" : "Muzhskoe Kino",
+            "name" : "Kanal D Romania",
             "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/nn/nastroy_kino_ru_muzhskoe_kino.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/nn/nastroy_kino_ru_muzhskoe_kino.png",
-            "satellite_data_url" : "https://astra.ses/channels/muzhskoe-kino"
+            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_ro.png",
+            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_ro.png",
+            "satellite_data_url" : "https://astra.ses/channels/kanal-d-romania"
           },
           "sub_9": {
             "id" : 9,
-            "name" : "Match! Planeta",
+            "name" : "TRT World",
             "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/mm/match_ru_planeta.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/mm/match_ru_planeta.png",
-            "satellite_data_url" : "https://astra.ses/channels/match-planeta"
+            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/tt/trt_world_tr.png",
+            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/tt/trt_world_tr.png",
+            "satellite_data_url" : "https://astra.ses/channels/trt-world"
           },
           "sub_10": {
             "id" : 10,
-            "name" : "Kinomiks",
+            "name" : "TRT World",
             "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/nn/nastroy_kino_ru_kino_miks.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/nn/nastroy_kino_ru_kino_miks.png",
-            "satellite_data_url" : "https://astra.ses/channels/kinomiks"
+            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/tt/trt_world_tr.png",
+            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/tt/trt_world_tr.png",
+            "satellite_data_url" : "https://astra.ses/channels/trt-world-0"
           },
           "sub_11": {
             "id" : 11,
-            "name" : "Rossiya K",
+            "name" : "TRT World",
             "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rossiya_kultura.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rossiya_kultura.png",
-            "satellite_data_url" : "https://astra.ses/channels/rossiya-k"
+            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/tt/trt_world_tr.png",
+            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/tt/trt_world_tr.png",
+            "satellite_data_url" : "https://astra.ses/channels/trt-world-1"
           },
           "sub_12": {
             "id" : 12,
-            "name" : "Mult",
+            "name" : "TRT World",
             "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/mm/mult_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/mm/mult_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/mult"
+            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/tt/trt_world_tr.png",
+            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/tt/trt_world_tr.png",
+            "satellite_data_url" : "https://astra.ses/channels/trt-world-1"
           },
           "sub_13": {
             "id" : 13,
-            "name" : "Kinohit",
+            "name" : "TRT Türk",
             "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/nn/nastroy_kino_ru_kino_hit.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/nn/nastroy_kino_ru_kino_hit.png",
-            "satellite_data_url" : "https://astra.ses/channels/kinohit"
+            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/tt/trt_turk_tr.png",
+            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/tt/trt_turk_tr.png",
+            "satellite_data_url" : "https://astra.ses/channels/trt-turk"
           },
           "sub_14": {
             "id" : 14,
-            "name" : "Kinosemja",
+            "name" : "TSR",
             "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/nn/nastroy_kino_ru_kino_semja.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/nn/nastroy_kino_ru_kino_semja.png",
-            "satellite_data_url" : "https://astra.ses/channels/kinosemja"
+            "banner_url" : "https://www.lyngsat-logo.com/logo/radio/tt/tsr_turkiyenin_sesi_radyosu.png",
+            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/radio/tt/tsr_turkiyenin_sesi_radyosu.png",
+            "satellite_data_url" : "https://astra.ses/channels/tsr"
           },
           "sub_15": {
             "id" : 15,
-            "name" : "Karusel International",
+            "name" : "Nicktoons Türkiye",
             "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/kk/karusel_international.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/kk/karusel_international.png",
-            "satellite_data_url" : "https://astra.ses/channels/karusel-international"
+            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/nn/nick_toons_us.png",
+            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/nn/nick_toons_us.png",
+            "satellite_data_url" : "https://astra.ses/channels/nicktoons-turkiye"
           },
           "sub_16": {
             "id" : 16,
-            "name" : "National Geographic Russia",
+            "name" : "Discovery Science Türkiye",
             "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png",
-            "satellite_data_url" : "https://astra.ses/channels/national-geographic-russia"
+            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/dd/discovery_science_global.png",
+            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/dd/discovery_science_global.png",
+            "satellite_data_url" : "https://astra.ses/channels/discovery-science-turkiye"
           },
           "sub_17": {
             "id" : 17,
-            "name" : "Dom Kino Premium",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/dd/dom_kino_ru_premium.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/dd/dom_kino_ru_premium.png",
-            "satellite_data_url" : "https://astra.ses/channels/dom-kino-premium"
-          },
-          "sub_18": {
-            "id" : 18,
-            "name" : "Nat Geo Wild Russia",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_us.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_us.png",
-            "satellite_data_url" : "https://astra.ses/channels/nat-geo-wild-russia"
-          },
-          "sub_19": {
-            "id" : 19,
-            "name" : "RTR Planeta",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rtr_planeta_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rtr_planeta_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/rtr-planeta"
-          },
-          "sub_20": {
-            "id" : 20,
-            "name" : "RTVi Europe",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rtvi_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rtvi_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/rtvi-europe"
-          },
-          "sub_21": {
-            "id" : 21,
-            "name" : "JimJam Rossiya",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/jj/jim_jam_global.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/jj/jim_jam_global.png",
-            "satellite_data_url" : "https://astra.ses/channels/jimjam-rossiya"
-          },
-          "sub_22": {
-            "id" : 22,
-            "name" : "Dom Kino",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/dd/dom_kino_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/dd/dom_kino_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/dom-kino"
-          },
-          "sub_23": {
-            "id" : 23,
-            "name" : "Tiji Russia",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/tt/tiji_fr_russia.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/tt/tiji_fr_russia.png",
-            "satellite_data_url" : "https://astra.ses/channels/tiji-russia"
-          },
-          "sub_24": {
-            "id" : 24,
-            "name" : "Eurosport 1 Rossiya",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png",
-            "satellite_data_url" : "https://astra.ses/channels/eurosport-1-rossiya"
-          },
-          "sub_25": {
-            "id" : 25,
-            "name" : "Eurosport 2 Rossiya",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png",
-            "satellite_data_url" : "https://astra.ses/channels/eurosport-2-rossiya"
-          },
-          "sub_26": {
-            "id" : 26,
-            "name" : "TLC Russia",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png",
-            "satellite_data_url" : "https://astra.ses/channels/tlc-russia"
-          },
-          "sub_27": {
-            "id" : 27,
-            "name" : "Investigation Discovery Rossiya",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_us.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_us.png",
-            "satellite_data_url" : "https://astra.ses/channels/investigation-discovery-rossiya"
-          },
-          "sub_28": {
-            "id" : 28,
-            "name" : "DTX Rossiya",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us_xtra.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us_xtra.png",
-            "satellite_data_url" : "https://astra.ses/channels/dtx-rossiya"
-          },
-          "sub_29": {
-            "id" : 29,
-            "name" : "Discovery Channel Russia",
+            "name" : "Discovery Channel Türkiye",
             "sub_name" : "",
             "banner_url" : "https://www.lyngsat-logo.com/logo/tv/dd/discovery_global_us.png",
             "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/dd/discovery_global_us.png",
-            "satellite_data_url" : "https://astra.ses/channels/discovery-channel-russia"
-          },
-          "sub_30": {
-            "id" : 30,
-            "name" : "Paramount Channel Russia",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/pp/paramount_channel_us.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/pp/paramount_channel_us.png",
-            "satellite_data_url" : "https://astra.ses/channels/paramount-channel-russia"
-          },
-          "sub_31": {
-            "id" : 31,
-            "name" : "MTV Russia",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/mm/mtv_us.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/mm/mtv_us.png",
-            "satellite_data_url" : "https://astra.ses/channels/mtv-russia"
-          },
-          "sub_32": {
-            "id" : 32,
-            "name" : "Peretz International",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/pp/peretz_tv_ru_international.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/pp/peretz_tv_ru_international.png",
-            "satellite_data_url" : "https://astra.ses/channels/peretz-international"
-          },
-          "sub_33": {
-            "id" : 33,
-            "name" : "REN TV International",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/ren-tv-ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/ren-tv-ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/ren-tv-international"
-          },
-          "sub_34": {
-            "id" : 34,
-            "name" : "Domashniy International",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/dd/domashniy_ru_international.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/dd/domashniy_ru_international.png",
-            "satellite_data_url" : "https://astra.ses/channels/domashniy-international"
-          },
-          "sub_35": {
-            "id" : 35,
-            "name" : "STS International",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sts-international-ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sts-international-ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/sts-international"
-          },
-          "sub_36": {
-            "id" : 36,
-            "name" : "TLC Russia",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png",
-            "satellite_data_url" : "https://astra.ses/channels/tlc-russia-0"
-          },
-          "sub_37": {
-            "id" : 37,
-            "name" : "Investigation Discovery Rossiya",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_us.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_us.png",
-            "satellite_data_url" : "https://astra.ses/channels/investigation-discovery-rossiya-0"
-          },
-          "sub_38": {
-            "id" : 38,
-            "name" : "Eurosport 1 Rossiya",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png",
-            "satellite_data_url" : "https://astra.ses/channels/eurosport-1-rossiya-0"
-          },
-          "sub_39": {
-            "id" : 39,
-            "name" : "Eurosport 2 Rossiya",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png",
-            "satellite_data_url" : "https://astra.ses/channels/eurosport-2-rossiya-0"
-          },
-          "sub_40": {
-            "id" : 40,
-            "name" : "NTV Mir",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/nn/ntv_world_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/nn/ntv_world_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/ntv-mir"
-          },
-          "sub_41": {
-            "id" : 41,
-            "name" : "TV Centr International",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/tt/tv_centr_ru_international.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/tt/tv_centr_ru_international.png",
-            "satellite_data_url" : "https://astra.ses/channels/tv-centr-international"
-          },
-          "sub_42": {
-            "id" : 42,
-            "name" : "Perviy kanal CIS",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/pp/perviy_1_kanal.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/pp/perviy_1_kanal.png",
-            "satellite_data_url" : "https://astra.ses/channels/perviy-kanal-cis"
-          },
-          "sub_43": {
-            "id" : 43,
-            "name" : "Telekanal O!",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/tt/telekanal_o_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/tt/telekanal_o_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/telekanal-o"
-          },
-          "sub_44": {
-            "id" : 44,
-            "name" : "Paramount Comedy Russia",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/pp/paramount_comedy_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/pp/paramount_comedy_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/paramount-comedy-russia"
-          },
-          "sub_45": {
-            "id" : 45,
-            "name" : "TNT International",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/tt/tnt-ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/tt/tnt-ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/tnt-international"
-          },
-          "sub_46": {
-            "id" : 46,
-            "name" : "M-1 Global TV",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/mm/m-1-global-tv-ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/mm/m-1-global-tv-ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/m-1-global-tv"
-          },
-          "sub_47": {
-            "id" : 47,
-            "name" : "Istoriya Telekanal",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ii/istoriya_telekanal_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ii/istoriya_telekanal_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/istoriya-telekanal"
-          },
-          "sub_48": {
-            "id" : 48,
-            "name" : "Zhivaya Planeta",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/zz/zhivaya_planeta_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/zz/zhivaya_planeta_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/zhivaya-planeta"
-          },
-          "sub_49": {
-            "id" : 49,
-            "name" : "Cinéma",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/tt/telekarta_ru_cinema.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/tt/telekarta_ru_cinema.png",
-            "satellite_data_url" : "https://astra.ses/channels/cinema"
-          },
-          "sub_50": {
-            "id" : 50,
-            "name" : "NST",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/nn/nastoyashee_strashnoe_tv_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/nn/nastoyashee_strashnoe_tv_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/nst"
-          },
-          "sub_51": {
-            "id" : 51,
-            "name" : "Pyatnitsa! International",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/pp/pyatnitsa-international-ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/pp/pyatnitsa-international-ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/pyatnitsa-international"
-          },
-          "sub_52": {
-            "id" : 52,
-            "name" : "Planeta HD",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/pp/planeta_hd_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/pp/planeta_hd_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/planeta-hd"
-          },
-          "sub_53": {
-            "id" : 53,
-            "name" : "Nauka",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/nn/nauka_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/nn/nauka_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/nauka"
-          },
-          "sub_54": {
-            "id" : 54,
-            "name" : "RT News",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_ru_english.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_ru_english.png",
-            "satellite_data_url" : "https://astra.ses/channels/rt-news"
-          },
-          "sub_55": {
-            "id" : 55,
-            "name" : "RBK TV",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rbk_tv_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rbk_tv_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/rbk-tv"
-          },
-          "sub_56": {
-            "id" : 56,
-            "name" : "RT UK",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_uk.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_uk.png",
-            "satellite_data_url" : "https://astra.ses/channels/rt-uk"
-          },
-          "sub_57": {
-            "id" : 57,
-            "name" : "RT UK",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_uk.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_uk.png",
-            "satellite_data_url" : "https://astra.ses/channels/rt-uk-0"
-          },
-          "sub_58": {
-            "id" : 58,
-            "name" : "RT News",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_ru_english.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_ru_english.png",
-            "satellite_data_url" : "https://astra.ses/channels/rt-news-0"
-          },
-          "sub_59": {
-            "id" : 59,
-            "name" : "RT Español",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_ru_espanol.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_ru_espanol.png",
-            "satellite_data_url" : "https://astra.ses/channels/rt-espanol"
-          },
-          "sub_60": {
-            "id" : 60,
-            "name" : "RT France",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_ru_english.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_ru_english.png",
-            "satellite_data_url" : "https://astra.ses/channels/rt-france"
-          },
-          "sub_61": {
-            "id" : 61,
-            "name" : "RT Español",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_ru_espanol.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_ru_espanol.png",
-            "satellite_data_url" : "https://astra.ses/channels/rt-espanol-0"
-          },
-          "sub_62": {
-            "id" : 62,
-            "name" : "RT News",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_ru_english.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_ru_english.png",
-            "satellite_data_url" : "https://astra.ses/channels/rt-news-1"
-          },
-          "sub_63": {
-            "id" : 63,
-            "name" : "RT Español",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_ru_espanol.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_ru_espanol.png",
-            "satellite_data_url" : "https://astra.ses/channels/rt-espanol-0"
-          },
-          "sub_64": {
-            "id" : 64,
-            "name" : "RT News",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_ru_english.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_ru_english.png",
-            "satellite_data_url" : "https://astra.ses/channels/rt-news-1"
-          },
-          "sub_65": {
-            "id" : 65,
-            "name" : "Perviy Baltijskyi Kanal",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/pp/perviy_baltiysky_kanal_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/pp/perviy_baltiysky_kanal_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/perviy-baltijskyi-kanal"
-          },
-          "sub_66": {
-            "id" : 66,
-            "name" : "REN TV Baltic",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/ren_tv_ru_baltic.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/ren_tv_ru_baltic.png",
-            "satellite_data_url" : "https://astra.ses/channels/ren-tv-baltic"
-          },
-          "sub_67": {
-            "id" : 67,
-            "name" : "NTV Mir Baltic",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/nn/ntv_world_baltic.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/nn/ntv_world_baltic.png",
-            "satellite_data_url" : "https://astra.ses/channels/ntv-mir-baltic"
-          },
-          "sub_68": {
-            "id" : 68,
-            "name" : "STS International",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sts-international-ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sts-international-ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/sts-international-0"
-          },
-          "sub_69": {
-            "id" : 69,
-            "name" : "RTR Planeta Baltia",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rtr_planeta_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rtr_planeta_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/rtr-planeta-baltia"
-          },
-          "sub_70": {
-            "id" : 70,
-            "name" : "RT News",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_ru_english.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_ru_english.png",
-            "satellite_data_url" : "https://astra.ses/channels/rt-news-2"
-          },
-          "sub_71": {
-            "id" : 71,
-            "name" : "RTR Planeta Baltia",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rtr_planeta_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rtr_planeta_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/rtr-planeta-baltia"
-          },
-          "sub_72": {
-            "id" : 72,
-            "name" : "RT News",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_ru_english.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rt_ru_english.png",
-            "satellite_data_url" : "https://astra.ses/channels/rt-news-2"
-          },
-          "sub_73": {
-            "id" : 73,
-            "name" : "Okhota i Rybalka",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/oo/okhota_i_rybalka_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/oo/okhota_i_rybalka_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/okhota-i-rybalka"
-          },
-          "sub_74": {
-            "id" : 74,
-            "name" : "Sony Sci-Fi Russia",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony_scifi_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony_scifi_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/sony-sci-fi-russia"
-          },
-          "sub_75": {
-            "id" : 75,
-            "name" : "Sony Turbo",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony_turbo_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony_turbo_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/sony-turbo"
-          },
-          "sub_76": {
-            "id" : 76,
-            "name" : "Fox Russia",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png",
-            "satellite_data_url" : "https://astra.ses/channels/fox-russia-0"
-          },
-          "sub_77": {
-            "id" : 77,
-            "name" : "National Geographic Russia",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png",
-            "satellite_data_url" : "https://astra.ses/channels/national-geographic-russia-0"
-          },
-          "sub_78": {
-            "id" : 78,
-            "name" : "Evrokino",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ee/eurokino.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ee/eurokino.png",
-            "satellite_data_url" : "https://astra.ses/channels/evrokino"
-          },
-          "sub_79": {
-            "id" : 79,
-            "name" : "Sony Channel Russia",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony_channel_in.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony_channel_in.png",
-            "satellite_data_url" : "https://astra.ses/channels/sony-channel-russia"
-          },
-          "sub_80": {
-            "id" : 80,
-            "name" : "Eurosport 1 Rossiya",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png",
-            "satellite_data_url" : "https://astra.ses/channels/eurosport-1-rossiya-1"
-          },
-          "sub_81": {
-            "id" : 81,
-            "name" : "Eurosport 2 Rossiya",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png",
-            "satellite_data_url" : "https://astra.ses/channels/eurosport-2-rossiya-1"
-          },
-          "sub_82": {
-            "id" : 82,
-            "name" : "Sony Sci-Fi Russia",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony_scifi_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony_scifi_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/sony-sci-fi-russia"
-          },
-          "sub_83": {
-            "id" : 83,
-            "name" : "Sony Turbo",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony_turbo_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony_turbo_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/sony-turbo"
-          },
-          "sub_84": {
-            "id" : 84,
-            "name" : "Fox Russia",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png",
-            "satellite_data_url" : "https://astra.ses/channels/fox-russia-0"
-          },
-          "sub_85": {
-            "id" : 85,
-            "name" : "National Geographic Russia",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png",
-            "satellite_data_url" : "https://astra.ses/channels/national-geographic-russia-0"
-          },
-          "sub_86": {
-            "id" : 86,
-            "name" : "Evrokino",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ee/eurokino.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ee/eurokino.png",
-            "satellite_data_url" : "https://astra.ses/channels/evrokino"
-          },
-          "sub_87": {
-            "id" : 87,
-            "name" : "Sony Channel Russia",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony_channel_in.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ss/sony_channel_in.png",
-            "satellite_data_url" : "https://astra.ses/channels/sony-channel-russia"
-          },
-          "sub_88": {
-            "id" : 88,
-            "name" : "Eurosport 1 Rossiya",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png",
-            "satellite_data_url" : "https://astra.ses/channels/eurosport-1-rossiya-1"
-          },
-          "sub_89": {
-            "id" : 89,
-            "name" : "Eurosport 2 Rossiya",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png",
-            "satellite_data_url" : "https://astra.ses/channels/eurosport-2-rossiya-1"
-          },
-          "sub_90": {
-            "id" : 90,
-            "name" : "Dozhd",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/dd/dozhd_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/dd/dozhd_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/dozhd"
-          },
-          "sub_91": {
-            "id" : 91,
-            "name" : "RTR Moldova",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rtr-moldova-ru-md.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rtr-moldova-ru-md.png",
-            "satellite_data_url" : "https://astra.ses/channels/rtr-moldova"
-          },
-          "sub_92": {
-            "id" : 92,
-            "name" : "RTR Moldova",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rtr-moldova-ru-md.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/rr/rtr-moldova-ru-md.png",
-            "satellite_data_url" : "https://astra.ses/channels/rtr-moldova"
-          },
-          "sub_93": {
-            "id" : 93,
-            "name" : "Peretz International",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/pp/peretz_tv_ru_international.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/pp/peretz_tv_ru_international.png",
-            "satellite_data_url" : "https://astra.ses/channels/peretz-international-0"
-          },
-          "sub_94": {
-            "id" : 94,
-            "name" : "365 dnei TV",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/num/365_dnei_tv_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/num/365_dnei_tv_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/365-dnei-tv"
-          },
-          "sub_95": {
-            "id" : 95,
-            "name" : "5 Kanal International",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/num/5_kanal_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/num/5_kanal_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/5-kanal-international"
-          },
-          "sub_96": {
-            "id" : 96,
-            "name" : "A Premium HD",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/aa/a_media_ru_premium_hd.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/aa/a_media_ru_premium_hd.png",
-            "satellite_data_url" : "https://astra.ses/channels/premium-hd"
-          },
-          "sub_97": {
-            "id" : 97,
-            "name" : "A1",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/aa/a_media_ru_1.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/aa/a_media_ru_1.png",
-            "satellite_data_url" : "https://astra.ses/channels/a1"
-          },
-          "sub_98": {
-            "id" : 98,
-            "name" : "Amedia Hit",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/aa/a_media_ru_hit.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/aa/a_media_ru_hit.png",
-            "satellite_data_url" : "https://astra.ses/channels/amedia-hit"
-          },
-          "sub_99": {
-            "id" : 99,
-            "name" : "Auto Plus",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/aa/auto_plus_ru.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/aa/auto_plus_ru.png",
-            "satellite_data_url" : "https://astra.ses/channels/auto-plus"
-          },
-          "sub_100": {
-            "id" : 100,
-            "name" : "Bollywood HD",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/bb/bollywood_ru_hd.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/bb/bollywood_ru_hd.png",
-            "satellite_data_url" : "https://astra.ses/channels/bollywood-hd"
-          },
-          "sub_101": {
-            "id" : 101,
-            "name" : "Cartoon Network Russia & South East Europe",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png",
-            "satellite_data_url" : "https://astra.ses/channels/cartoon-network-russia-south-east-europe"
-          },
-          "sub_102": {
-            "id" : 102,
-            "name" : "Cartoon Network Russia & South East Europe",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png",
-            "satellite_data_url" : "https://astra.ses/channels/cartoon-network-russia-south-east-europe-0"
-          },
-          "sub_103": {
-            "id" : 103,
-            "name" : "Cartoon Network Russia & South East Europe",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png",
-            "satellite_data_url" : "https://astra.ses/channels/cartoon-network-russia-south-east-europe"
-          },
-          "sub_104": {
-            "id" : 104,
-            "name" : "Cartoon Network Russia & South East Europe",
-            "sub_name" : "",
-            "banner_url" : "https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png",
-            "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png",
-            "satellite_data_url" : "https://astra.ses/channels/cartoon-network-russia-south-east-europe-0"
+            "satellite_data_url" : "https://astra.ses/channels/discovery-channel-turkiye"
           }
         }
       }
@@ -9483,8 +8787,8 @@
       "sub_P_Mob": 3,
       "sub_P_Tab": 4,
       "is_custom_Thumb": false,
-      "custom_Thumb_BG_Color": "#ffffff",
-      "custom_Thumb_Txt_Color": "#e0291b"
+      "custom_Thumb_BG_Color": "#ee0e16",
+      "custom_Thumb_Txt_Color": "#ffffff"
     },
     "Donation_Settings": {
       "donation_image_url": "https://alsride.org.au/wp-content/uploads/2017/03/donation.png",
@@ -9683,8 +8987,8 @@
       "facebook_url": "https://www.facebook.com/",
       "isDummy": false,
       "is_texture_centercrop": false,
-      "package_Id": "com.satellite.guide.tv.russia",
-      "share_message": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.satellite.guide.tv.russia",
+      "package_Id": "com.satellite.guide.tv.turkish",
+      "share_message": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.satellite.guide.tv.turkish",
       "texture_Bg_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/texture/t5.png"
     },
     "Setup_Tv": {
@@ -9717,8 +9021,8 @@
       "progress_install_message": "Install Now",
       "update_current_version": "1.0.0",
       "update_required": true,
-      "update_store_app_id": "com.satellite.guide.tv.russia",
-      "website_Url": "https://play.google.com/store/apps/details?id=com.satellite.guide.tv.russia"
+      "update_store_app_id": "com.satellite.guide.tv.turkish",
+      "website_Url": "https://play.google.com/store/apps/details?id=com.satellite.guide.tv.turkish"
     }
   }
 }

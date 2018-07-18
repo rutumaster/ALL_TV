@@ -3,6 +3,7 @@
     "Admob_Settings": {
       "ads_Delay": 0,
       "ads_On_Cancel_Delay": 0,
+      "satellite_Repeat_Count": 3,
       "applovin_ads": {
         "ads_app_id": "WELTwtWXafsts82Q1HIQ2v7OeEHUtGHOUcsPTMx21owuxzIzEbNGUVf8kycbCu-hVr5zB10Dpx5luOh7-4NSZ2",
         "is_Ads": true,
@@ -8948,11 +8949,7 @@
             "thumbnail_url" : "https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png",
             "satellite_data_url" : "https://astra.ses/channels/b4u-music-uk-0"
           }
-        },
-        "img_Url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/Religious.png?alt=media&token=42aa5228-c306-4e4f-bd81-a5ae351956bb",
-        "initial_desc": "All Relegious Live Channels",
-        "page_Color": "#ffa800",
-        "title": "Relegious"
+        }
       }
     },
     "Chromecast_Setting": {
