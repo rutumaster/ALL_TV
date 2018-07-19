@@ -39240,8 +39240,8 @@
       "sub_P_Mob": 3,
       "sub_P_Tab": 4,
       "is_custom_Thumb": false,
-      "custom_Thumb_BG_Color": "#015b1e",
-      "custom_Thumb_Txt_Color": "#ffffff"
+      "custom_Thumb_BG_Color": "#000000",
+      "custom_Thumb_Txt_Color": "#f8d70c"
     },
     "Donation_Settings": {
       "donation_image_url": "https://alsride.org.au/wp-content/uploads/2017/03/donation.png",
@@ -39440,8 +39440,8 @@
       "facebook_url": "https://www.facebook.com/",
       "isDummy": false,
       "is_texture_centercrop": false,
-      "package_Id": "com.satellite.guide.tv.pakistan",
-      "share_message": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.satellite.guide.tv.pakistan",
+      "package_Id": "com.satellite.guide.tv.germany",
+      "share_message": "Are you looking to Watch 2000+ Global Live TV Channels? Like Live Sports, News, Wild Life/Science, Religious, Kidz Channels in Full HD, Also you can see Popular TV Shows, Movies(Bollywood, Hollywood, Tollywood etc...), Video Songs Episodes (All Languages) then you should download : https://play.google.com/store/apps/details?id=com.satellite.guide.tv.germany",
       "texture_Bg_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Intro%20Slider/texture/t5.png"
     },
     "Setup_Tv": {
@@ -39474,8 +39474,8 @@
       "progress_install_message": "Install Now",
       "update_current_version": "1.0.0",
       "update_required": true,
-      "update_store_app_id": "com.satellite.guide.tv.pakistan",
-      "website_Url": "https://play.google.com/store/apps/details?id=com.satellite.guide.tv.pakistan"
+      "update_store_app_id": "com.satellite.guide.tv.germany",
+      "website_Url": "https://play.google.com/store/apps/details?id=com.satellite.guide.tv.germany"
     }
   }
 }
