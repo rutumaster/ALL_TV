@@ -1,101 +1,387 @@
 {
-  "World_TV" : {
-    "Data" : {
-      "dummy_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/world/dummy.json",
-      "dummy_version" : "1.0.0",
-      "identifier" : "TV_Data",
-      "isDummy" : true,
-      "json_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/world/original.json",
-      "trial_days" : 7,
-      "trial_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/world/original-(Trial).json"
+  "World_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/world/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/world/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/world/original-(Trial).json"
     }
   },
-  "India_TV" : {
-    "Data" : {
-      "dummy_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/india/dummy.json",
-      "dummy_version" : "1.0.0",
-      "identifier" : "TV_Data",
-      "isDummy" : true,
-      "json_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/india/original.json",
-      "trial_days" : 7,
-      "trial_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/india/original-(Trial).json"
+  "India_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/india/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/india/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/india/original-(Trial).json"
     }
   },
-  "Pakistan_TV" : {
-    "Data" : {
-      "dummy_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/pakistan/dummy.json",
-      "dummy_version" : "1.0.0",
-      "identifier" : "TV_Data",
-      "isDummy" : true,
-      "json_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/pakistan/original.json",
-      "trial_days" : 7,
-      "trial_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/pakistan/original-(Trial).json"
+  "Pakistan_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/pakistan/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/pakistan/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/pakistan/original-(Trial).json"
     }
   },
-  "Russia_TV" : {
-    "Data" : {
-      "dummy_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/russia/dummy.json",
-      "dummy_version" : "1.0.0",
-      "identifier" : "TV_Data",
-      "isDummy" : true,
-      "json_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/russia/original.json",
-      "trial_days" : 7,
-      "trial_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/russia/original-(Trial).json"
+  "Russia_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/russia/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/russia/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/russia/original-(Trial).json"
     }
   },
-  "Turkish_TV" : {
-    "Data" : {
-      "dummy_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/turkish/dummy.json",
-      "dummy_version" : "1.0.0",
-      "identifier" : "TV_Data",
-      "isDummy" : true,
-      "json_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/turkish/original.json",
-      "trial_days" : 7,
-      "trial_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/turkish/original-(Trial).json"
+  "Turkish_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/turkish/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/turkish/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/turkish/original-(Trial).json"
     }
   },
-  "UK_TV" : {
-    "Data" : {
-      "dummy_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/uk/dummy.json",
-      "dummy_version" : "1.0.0",
-      "identifier" : "TV_Data",
-      "isDummy" : true,
-      "json_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/uk/original.json",
-      "trial_days" : 7,
-      "trial_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/uk/original-(Trial).json"
+  "UK_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/uk/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/uk/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/uk/original-(Trial).json"
     }
   },
-  "Ireland_TV" : {
-    "Data" : {
-      "dummy_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/ireland/dummy.json",
-      "dummy_version" : "1.0.0",
-      "identifier" : "TV_Data",
-      "isDummy" : true,
-      "json_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/ireland/original.json",
-      "trial_days" : 7,
-      "trial_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/ireland/original-(Trial).json"
+  "Ireland_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/ireland/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/ireland/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/ireland/original-(Trial).json"
     }
   },
-  "US_TV" : {
-    "Data" : {
-      "dummy_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/us/dummy.json",
-      "dummy_version" : "1.0.0",
-      "identifier" : "TV_Data",
-      "isDummy" : true,
-      "json_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/us/original.json",
-      "trial_days" : 7,
-      "trial_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/us/original-(Trial).json"
+  "US_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/us/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/us/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/us/original-(Trial).json"
     }
   },
-  "Germany_TV" : {
-    "Data" : {
-      "dummy_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/germany/dummy.json",
-      "dummy_version" : "1.0.0",
-      "identifier" : "TV_Data",
-      "isDummy" : true,
-      "json_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/germany/original.json",
-      "trial_days" : 7,
-      "trial_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/germany/original-(Trial).json"
+  "Germany_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/germany/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/germany/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/germany/original-(Trial).json"
+    }
+  },
+  "Romania_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/romania/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/romania/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/romania/original-(Trial).json"
+    }
+  },
+  "Qatar_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/qatar/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/qatar/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/qatar/original-(Trial).json"
+    }
+  },
+  "Moldova_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/moldova/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/moldova/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/moldova/original-(Trial).json"
+    }
+  },
+  "Lithuania_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/lithuania/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/lithuania/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/lithuania/original-(Trial).json"
+    }
+  },
+  "Estonia_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/estonia/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/estonia/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/estonia/original-(Trial).json"
+    }
+  },
+  "Norway_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/norway/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/norway/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/norway/original-(Trial).json"
+    }
+  },
+  "Denmark_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/denmark/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/denmark/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/denmark/original-(Trial).json"
+    }
+  },
+  "Ukraine_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/ukraine/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/ukraine/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/ukraine/original-(Trial).json"
+    }
+  },
+  "Switzerland_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/switzerland/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/switzerland/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/switzerland/original-(Trial).json"
+    }
+  },
+  "Spain_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/spain/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/spain/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/spain/original-(Trial).json"
+    }
+  },
+  "Austria_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/austria/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/austria/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/austria/original-(Trial).json"
+    }
+  },
+  "Serbia_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/serbia/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/serbia/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/serbia/original-(Trial).json"
+    }
+  },
+  "Canada_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/canada/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/canada/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/canada/original-(Trial).json"
+    }
+  },
+  "Belgium_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/belgium/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/belgium/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/belgium/original-(Trial).json"
+    }
+  },
+  "Poland_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/poland/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/poland/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/poland/original-(Trial).json"
+    }
+  },
+  "Luxembourg_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/luxembourg/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/luxembourg/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/luxembourg/original-(Trial).json"
+    }
+  },
+  "Latvia_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/latvia/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/latvia/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/latvia/original-(Trial).json"
+    }
+  },
+  "Hong_Hong_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/hong-kong/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/hong-kong/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/hong-kong/original-(Trial).json"
+    }
+  },
+  "Czech_Republic_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/czech-republic/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/czech-republic/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/czech-republic/original-(Trial).json"
+    }
+  },
+  "Netherland_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/netherland/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/netherland/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/netherland/original-(Trial).json"
+    }
+  },
+  "Hungary_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/hungary/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/hungary/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/hungary/original-(Trial).json"
+    }
+  },
+  "Italy_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/italy/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/italy/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/italy/original-(Trial).json"
+    }
+  },
+  "Sweden_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/sweden/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/sweden/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/sweden/original-(Trial).json"
+    }
+  },
+  "Slovakia_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/slovakia/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/slovakia/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/slovakia/original-(Trial).json"
+    }
+  },
+  "Georgia_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/georgia/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/georgia/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/georgia/original-(Trial).json"
+    }
+  },
+  "France_TV": {
+    "Data": {
+      "dummy_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/france/dummy.json",
+      "dummy_version": "1.0.0",
+      "identifier": "TV_Data",
+      "isDummy": true,
+      "json_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/france/original.json",
+      "trial_days": 7,
+      "trial_url": "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Satellite/JSON/country/france/original-(Trial).json"
     }
   }
 }
