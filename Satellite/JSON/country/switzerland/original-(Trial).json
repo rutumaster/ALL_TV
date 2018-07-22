@@ -28,17 +28,17 @@
         "is_Ads": true,
         "is_Banner_Ads": true,
         "is_Interstitial_Ads": true,
-        "visibility_Percentage": 1
+        "visibility_Percentage": 0
       },
       "google_ads": {
-        "ads_app_id": "ca-app-pub-9435847929752889~3251315030",
-        "banner_ad_unit_id": "ca-app-pub-9435847929752889/9805115099",
-        "interstitial_ad_unit_id": "ca-app-pub-9435847929752889/9122588812",
+        "ads_app_id": "ca-app-pub-6056592179342593~8998104961",
+        "banner_ad_unit_id": "ca-app-pub-6056592179342593/3857458925",
+        "interstitial_ad_unit_id": "ca-app-pub-6056592179342593/3382407086",
         "is_Ads": true,
         "is_Banner_Ads": true,
         "is_Interstitial_Ads": true,
-        "native_ad_unit_id": "ca-app-pub-9435847929752889/3622441001",
-        "rewarded_video_ad_unit_id": "ca-app-pub-9435847929752889/3622441001",
+        "native_ad_unit_id": "ca-app-pub-6056592179342593/6746937022",
+        "rewarded_video_ad_unit_id": "ca-app-pub-6056592179342593/6746937022",
         "visibility_Percentage": 100
       },
       "is_Banner_Ads": true,
@@ -49,7 +49,7 @@
         "is_Ads": true,
         "is_Banner_Ads": true,
         "is_Interstitial_Ads": true,
-        "visibility_Percentage": 0
+        "visibility_Percentage": 1
       }
     },
     "Ads_Popup": {
