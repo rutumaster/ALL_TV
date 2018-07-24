@@ -30,14 +30,14 @@
         "visibility_Percentage": 1
       },
       "google_ads": {
-        "ads_app_id": "ca-app-pub-9435847929752889~3251315030",
-        "banner_ad_unit_id": "ca-app-pub-9435847929752889/9805115099",
-        "interstitial_ad_unit_id": "ca-app-pub-9435847929752889/9122588812",
+        "ads_app_id": "ca-app-pub-9435847929752889~5809894331",
+        "banner_ad_unit_id": "ca-app-pub-9435847929752889/9557567654",
+        "interstitial_ad_unit_id": "ca-app-pub-9435847929752889/5506642001",
         "is_Ads": true,
         "is_Banner_Ads": true,
         "is_Interstitial_Ads": true,
-        "native_ad_unit_id": "ca-app-pub-9435847929752889/3622441001",
-        "rewarded_video_ad_unit_id": "ca-app-pub-9435847929752889/3622441001",
+        "native_ad_unit_id": "ca-app-pub-9435847929752889/5848997758",
+        "rewarded_video_ad_unit_id": "ca-app-pub-9435847929752889/5848997758",
         "visibility_Percentage": 100
       },
       "is_Banner_Ads": true,
@@ -28684,8 +28684,8 @@
       "is_system_browser": true
     },
     "Feedback_Setting": {
-      "feedback_CC_Email": "rutu.news@gmail.com",
-      "feedback_Email": "rutu.inc@gmail.com",
+      "feedback_CC_Email": "",
+      "feedback_Email": "pockettv.care@gmail.com",
       "feedback_Message": "Hi,\n\n\nYour Feedback Pocket TV Rocks! I would like to give you some feedback: ",
       "feedback_Subject": "Feedback on Pocket TV",
       "feedback_Title": "Send Feedback",
