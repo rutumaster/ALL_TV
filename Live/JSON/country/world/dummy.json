@@ -28672,8 +28672,8 @@
       "sub_P_Mob": 3,
       "sub_P_Tab": 4,
       "is_custom_Thumb": true,
-      "custom_Thumb_BG_Color": "#69a811",
-      "custom_Thumb_Txt_Color": "#feca04"
+      "custom_Thumb_BG_Color": "#feca04",
+      "custom_Thumb_Txt_Color": "#69a811"
     },
     "Donation_Settings": {
       "donation_image_url": "https://alsride.org.au/wp-content/uploads/2017/03/donation.png",
