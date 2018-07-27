@@ -173,6 +173,67 @@
         "name": "Satellite",
         "sub_name": ""
       },
+      "main_-7": {
+        "id" : -7,
+        "auto_banner": false,
+        "auto_thumbnail": false,
+        "banner_url": "http://www.cosco.in/uploads/products/category/sports-banner-cricket_71662810492.jpg",
+        "name": "General",
+        "sub": {
+          "sub_1": {
+            "auto_banner": false,
+            "is_without_encode_stream_url": true,
+            "id": 1,
+            "name": "24GhantaBangla",
+            "stream_url": "http://cshms1.airtel.tv/PLTV/88888888/224/3221225925/01.m3u8",
+            "sub_name": "",
+            "banner_url": "http://iptvdroidbein.ml/2020/SwiftLive/images/79851_sign-230x250.jpg",
+            "thumbnail_url": "http://iptvdroidbein.ml/2020/SwiftLive/images/79851_sign-230x250.jpg"
+          },
+          "sub_2": {
+            "auto_banner": false,
+            "is_without_encode_stream_url": true,
+            "id": 2,
+            "name": "CartoonNetwork",
+            "stream_url": "http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD28L240P/playlist.m3u8",
+            "sub_name": "",
+            "banner_url": "http://iptvdroidbein.ml/2020/SwiftLive/images/79851_sign-230x250.jpg",
+            "thumbnail_url": "http://iptvdroidbein.ml/2020/SwiftLive/images/79851_sign-230x250.jpg"
+          },
+          "sub_3": {
+            "auto_banner": false,
+            "is_without_encode_stream_url": true,
+            "id": 3,
+            "name": "SonyMAXHD",
+            "stream_url": "http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/01.m3u8",
+            "sub_name": "",
+            "banner_url": "http://iptvdroidbein.ml/2020/SwiftLive/images/79851_sign-230x250.jpg",
+            "thumbnail_url": "http://iptvdroidbein.ml/2020/SwiftLive/images/79851_sign-230x250.jpg"
+          },
+          "sub_4": {
+            "auto_banner": false,
+            "is_without_encode_stream_url": true,
+            "id": 4,
+            "name": "Aaj tak",
+            "stream_url": "http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/chunklist_w117419562_b1000000.m3u8",
+            "sub_name": "",
+            "banner_url": "http://iptvdroidbein.ml/2020/SwiftLive/images/79851_sign-230x250.jpg",
+            "thumbnail_url": "http://iptvdroidbein.ml/2020/SwiftLive/images/79851_sign-230x250.jpg"
+          },
+          "sub_5": {
+            "auto_banner": false,
+            "is_without_encode_stream_url": true,
+            "id": 5,
+            "name": "Zoom",
+            "stream_url": "https://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/zoom_hls.smil/chunklist_w979985133_b512000.m3u8",
+            "sub_name": "",
+            "banner_url": "http://iptvdroidbein.ml/2020/SwiftLive/images/79851_sign-230x250.jpg",
+            "thumbnail_url": "http://iptvdroidbein.ml/2020/SwiftLive/images/79851_sign-230x250.jpg"
+          }
+        },
+        "sub_name": "Channels",
+        "thumbnail_url": "http://www.4androidapk.net/data/programs/images/cricket-buzz-live-score-fast_8563.png"
+      },
       "main_0": {
         "auto_banner": false,
         "auto_thumbnail": false,
