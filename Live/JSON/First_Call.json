@@ -1,7 +1,7 @@
 {
   "World_TV" : {
     "Data" : {
-      "dummy_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Live/JSON/country/world/dummy.json",
+      "dummy_url" : "https://raw.githubusercontent.com/rutumaster/ALL_TV/master/Live/JSON/country/world/dummy-Maintenance_Mode.json",
       "dummy_version" : "1.0.0",
       "identifier" : "TV_Data",
       "isDummy" : true,
