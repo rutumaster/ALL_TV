@@ -96,6 +96,15 @@
         "id" : 0,
         "name" : "Cricket Live",
         "sub" : {
+          "sub_-2" : {
+            "id" : -2,
+            "auto_banner" : false,
+            "banner_url" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png",
+            "name" : "hhhhhhh",
+            "stream_url" : "http://galaxytv.ml:8880/live/General/V8HlaxEOEK/1469.ts",
+            "sub_name" : "",
+            "thumbnail_url" : "https://image.winudf.com/v2/image/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnNoYWlzaGFua19wYW5kZXkuSVBMXzIwMThfaWNvbl8xNTE0NTI5OTI2XzA4MQ/icon.png?w=170&fakeurl=1&type=.png"
+          },
           "sub_-1" : {
             "auto_banner" : false,
             "auto_thumbnail" : false,
