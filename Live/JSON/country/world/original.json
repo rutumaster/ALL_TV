@@ -180,6 +180,20 @@
         "id": 0,
         "name": "Football/Cricket Live",
         "sub": {
+          "sub_01": {
+            "auto_banner": false,
+            "url_banner": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/DD-News.jpeg?alt=media&token=b3049151-6c00-456e-880f-03c2f7233a76",
+            "id": 0,
+            "is_without_encode_stream_url": true,
+            "common_image": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Play_1.jpg",
+            "auto_unique_name": "Channel ",
+            "name": "ZZZ News",
+            "stream_url": "http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts",
+            "sub_name": "",
+            "banner_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54548_DDnews.jpg",
+            "url_thumbnail": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/India/DD-News.jpeg?alt=media&token=b3049151-6c00-456e-880f-03c2f7233a76"
+          },
           "sub_1": {
             "auto_banner": false,
             "auto_thumbnail": false,
