@@ -28849,7 +28849,7 @@
       "isAppPlayer": true,
       "isWebviewPlayer": true,
       "isOtherPlayerOption": true,
-      "is_Inapp_Purchase": true,
+      "is_Inapp_Purchase": false,
       "other_player_image_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
       "success_other_player_Permanent_message": "Congratulations!\nNow you can play video in outside player also."
     },
@@ -28876,8 +28876,8 @@
     },
     "Settings": {
       "is_Searchbar": true,
-      "is_Trial_Version": true,
-      "trial_Version_Text": "do you want to view Fullscreen Video,you should try \"Other Player Option\".",
+      "is_Trial_Version": false,
+      "trial_Version_Text": "",
       "trial_Version_Height": 70,
       "trial_Version_Bg_Color": "#000000",
       "trial_Version_Text_Color": "#ffffff",
